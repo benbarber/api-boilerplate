@@ -1,0 +1,13 @@
+name: api
+version: 0.1.0
+
+authors:
+  - Ben Barber <contact@benbarber.co.uk>
+
+targets:
+  api:
+    main: src/api.cr
+
+crystal: 0.23.1
+
+license: MIT
